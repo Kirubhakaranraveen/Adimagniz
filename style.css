@@ -1,0 +1,74 @@
+.container{
+    border: 5px solid black;
+    width: 450px;height: 1160px;
+    box-shadow: 50px;
+}
+h1{
+    border: 1px solid red;
+    width: 200px;height: 50px;
+    margin-left: 5px;
+    padding-left: 70px;top: 20px;
+}
+span{
+    color: rgb(245, 184, 28);
+}
+h2{
+    margin-left: 5px;
+    position: absolute;top: 60px;
+    color: white;
+}
+h3{
+    border: 1px solid black;
+    width: 300px;margin-left: 5px;
+    background-color: rgba(245, 183, 28, 0.87);
+    padding: 10px;position: absolute;top: 150px;
+}
+.register{
+    border: 1px solid red;
+    width: 180px;text-align: center;justify-content: center;
+    background-color: red;height: 50px;
+    position: absolute;left: 90px;color: white;
+    padding-bottom: 10px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 450px;
+    position: absolute;top: 450px;
+    border: 1px solid black;
+    width: auto;height: auto;
+   
+
+}
+.grid{
+    border: 1px solid black;
+}
+.grid1{
+    background-color: brown;
+    color: white;
+    height: 50px;padding-left: 15px;
+}
+.register1{
+    border: 1px solid red;
+    width: 150px;text-align: center;justify-content: center;
+    background-color: red;height: 20px;
+    position: absolute;left: 90px;color: white;
+    
+}
+.skill{
+    border: 1px solid brown;
+    background-color: brown;
+}
+.image{
+    border: 1px solid white;
+  
+}
+.grid6{
+    padding-left: 10px;
+}
+.image3{
+    width: 450px;height: 300px;
+}
+.image2{
+    width: 200px;
+}
+
